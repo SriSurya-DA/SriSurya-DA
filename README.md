@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me 👋
 
-<!--
-**SriSurya-DA/SriSurya-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm [Sri_Surya], a passionate data analyst with a focus on data analysis, SQL, and data visualization. I enjoy transforming complex datasets into actionable insights using tools like Python 🐍, Pandas 🐼, and SQL.
 
-Here are some ideas to get you started:
+Currently, I'm working on projects related to ultramarathon data analysis 🏃‍♂️, SQL queries 🔄, and data visualization 📊. I love exploring new technologies and enhancing my problem-solving skills through real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🛠️
+
+### Languages:
+- Python 🐍
+- SQL 🖥️
+- R 📈
+
+### Tools & Libraries:
+- Pandas 🐼
+- Seaborn 🌈
+- TextBlob 💬
+- Jupyter Notebook 📓
+
+### Databases:
+- MySQL 🗄️
+
+### Other:
+- Data Cleaning 🧹
+- Data Visualization 📊
+
+Feel free to check out my repositories, and feel free to connect if you're interested in collaborating or discussing data analytics, machine learning, or any related topics! 🤝
