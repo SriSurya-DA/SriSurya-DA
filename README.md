@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hi there! I'm Sri_Surya, a passionate data analyst with a focus on data analysis, SQL, and data visualization. I enjoy transforming complex datasets into actionable insights using tools like Python 🐍, Pandas 🐼, and SQL.
+Hi there! I'm **Sri Surya**, a passionate data analyst with a focus on data analysis, SQL, and data visualization. I enjoy transforming complex datasets into actionable insights using tools like Python 🐍, Pandas 🐼, and SQL.
 
 Currently, I'm working on projects related to ultramarathon data analysis 🏃‍♂️, SQL queries 🔄, and data visualization 📊. I love exploring new technologies and enhancing my problem-solving skills through real-world applications.
 
