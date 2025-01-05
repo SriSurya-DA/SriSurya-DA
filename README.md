@@ -24,7 +24,7 @@ Currently, I'm working on projects related to ultramarathon data analysis 🏃�
 ### Operating Systems:
 - Linux 🐧
 - Windows 🪟
-- iOS 🍏
+- MacOS 🍏
 
   ### Cloud & Data Management:
 - AWS ☁️
