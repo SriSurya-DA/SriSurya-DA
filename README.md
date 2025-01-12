@@ -33,6 +33,6 @@ Currently, I'm working on projects related to ultramarathon data analysis 🏃�
 
   ### Other:
 - Data Cleaning 🧹
-- Data Visualization 📊
+- Data Visualization 📊 (Grafana, Tableau)
 
 Feel free to check out my repositories, and feel free to connect if you're interested in collaborating or discussing data analytics or any related topics! 🤝
