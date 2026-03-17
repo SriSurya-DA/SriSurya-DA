@@ -1,38 +1,42 @@
-# About Me 👋
+# 👋 Hi, I'm Sri Surya
 
-Hi there! I'm **Sri Surya**, a passionate data analyst with a focus on data analysis, SQL, and data visualization. I enjoy transforming complex datasets into actionable insights using tools like Python 🐍, Pandas 🐼, and SQL.
+## 🚀 DevOps Engineer | Python Automation | Cloud Enthusiast
 
-Currently, I'm working on projects related to ultramarathon data analysis 🏃‍♂️, SQL queries 🔄, and data visualization 📊. I love exploring new technologies and enhancing my problem-solving skills through real-world applications.
+I am an IT professional with 4+ years of experience in Production Support, currently transitioning into a DevOps Engineer role.  
+I am passionate about building scalable infrastructure, automating deployments, and improving system reliability.
 
-## Skills 🛠️
+I enjoy working on real-time projects that involve containerization, CI/CD pipelines, and cloud-native technologies.
 
-### Languages:
-- Python 🐍
-- SQL 🖥️
-- SQLite 🗄️
+---
 
-### Tools & Libraries:
-- Pandas 🐼
-- Seaborn 🌈
-- TextBlob 💬
-- Jupyter Notebook 📓
-- Appium 📱
+## 🛠️ Skills & Technologies
 
-### Databases:
-- MySQL 🗄️
+- DevOps Tools: Docker, Kubernetes, Jenkins, Git, GitHub
+- Web & Proxy: Nginx
+- Cloud: AWS (Learning & Hands-on)
+- Scripting: Python, Shell Scripting
+- OS: Linux / Unix
+- Database: SQL
+- Concepts: CI/CD, Infrastructure Automation, Monitoring, Deployment Strategies
 
-### Operating Systems:
-- Linux 🐧
-- Windows 🪟
-- MacOS 🍏
+---
 
-  ### Cloud & Data Management:
-- AWS ☁️
-- ETL 🔄
-- Data Warehouse 🏢
+## 📂 Current Focus
 
-  ### Other:
-- Data Cleaning 🧹
-- Data Visualization 📊 (Grafana, Tableau)
+- Building real-world DevOps projects  
+- Learning Kubernetes architecture and production deployment  
+- Practicing Infrastructure as Code & Cloud deployment  
+- Improving automation using Python & Shell  
 
-Feel free to check out my repositories, and feel free to connect if you're interested in collaborating or discussing data analytics or any related topics! 🤝
+---
+
+## 📈 Career Goal
+
+To become a highly skilled DevOps / Cloud Engineer who can design, automate, and manage scalable production systems.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/srisuryamk1997/
+- Email: srisuryamk@gmail.com
