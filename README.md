@@ -11,7 +11,7 @@ I use this space to document my work, experiments, and project implementations r
 You can connect with me on LinkedIn or reach me via email for collaboration or technical discussions.
 
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/srisuryamk1997/
 - Email: srisuryamk@gmail.com
