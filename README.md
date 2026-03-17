@@ -1,45 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sri Surya</h1>
-<h3 align="center">DevOps Engineer | Automation & Cloud Infrastructure</h3>
+Hi, I'm Sri Surya.
 
----
+I work in the DevOps space with strong interest in automation, container platforms, and building stable deployment environments. Over the past few years, I have been involved in supporting and improving production systems, mainly on Linux-based infrastructure.
 
-### 💼 Professional Summary
+I like working on practical implementations — setting up CI/CD pipelines, containerizing applications, configuring reverse proxies, and writing scripts that reduce manual effort. Most of my GitHub repositories are focused on real-time deployment scenarios and hands-on infrastructure setups.
 
-DevOps Engineer with hands-on experience in designing and managing containerized applications, deployment pipelines, and scalable infrastructure environments.  
-Skilled in building reliable automation solutions and supporting production-grade systems across Linux-based platforms.
+Technologies I regularly work with include Docker, Kubernetes, Git, Jenkins, Nginx, Python, Shell scripting, and SQL. I am particularly interested in designing reliable release processes and improving system performance through better automation.
 
-Strong focus on system stability, performance optimization, and streamlined release processes.
+I use this space to document my work, experiments, and project implementations related to DevOps and cloud infrastructure.
 
----
+You can connect with me on LinkedIn or reach me via email for collaboration or technical discussions.
 
-### ⚙️ Technical Expertise
-
-- Containerization & Orchestration: Docker, Kubernetes
-- CI/CD & Version Control: Jenkins, Git, GitHub
-- Web & Reverse Proxy: Nginx
-- Scripting & Automation: Python, Shell Scripting
-- Operating Systems: Linux / Unix
-- Databases: SQL
-- DevOps Practices: Continuous Integration, Continuous Deployment, Infrastructure Automation, Monitoring & Troubleshooting
-
----
-
-### 🚀 Key Areas of Interest
-
-- Cloud Infrastructure Engineering  
-- Deployment Automation & Release Engineering  
-- Scalable System Architecture  
-- Production Environment Reliability  
-- Performance & Availability Optimization  
-
----
-
-### 📌 Engineering Approach
-
-Focused on building practical, maintainable, and production-ready solutions.  
-Believe in automation-first mindset, proactive monitoring, and continuous improvement of deployment workflows.
-
----
 
 ## 📫 Connect with Me
 
